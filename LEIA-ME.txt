@@ -1,0 +1,24 @@
+DUNKELKRIEG — pacote do jogo (versão 2026.11.09)
+
+Este pacote é o jogo completo, pronto para rodar num site gratuito.
+Abra index.html por um site (GitHub Pages ou itch.io): aberto direto do computador, alguns navegadores bloqueiam as fontes e as artes.
+
+GITHUB PAGES (link do tipo seunome.github.io/dunkelkrieg)
+1. Descompacte este .zip numa pasta.
+2. No GitHub, crie um repositório público chamado dunkelkrieg.
+3. Na página do repositório: "uploading an existing file" (ou Add file > Upload files).
+4. Arraste para lá TUDO o que está dentro da pasta (index.html e as pastas jogo, dados, artes e fontes). Clique em Commit changes.
+5. Settings > Pages > Source: Deploy from a branch > Branch: main, pasta / (root) > Save.
+6. Em um ou dois minutos o jogo abre em https://SEU-USUARIO.github.io/dunkelkrieg/
+
+ITCH.IO
+1. Em Dashboard > Create new project, escolha Kind of project: HTML.
+2. Em Uploads, envie este .zip e marque "This file will be played in the browser".
+3. Embed options: tamanho 1280 x 800, marque "Mobile friendly" e "Fullscreen button".
+4. Visibility: Draft enquanto testa (só você vê); Public quando quiser divulgar.
+
+ATUALIZAR
+Exporte um pacote novo na Oficina e envie os arquivos de novo (no GitHub, por cima dos antigos; no itch.io, substitua o .zip).
+
+CRÉDITOS DE FONTES
+TeX Gyre Pagella (GUST Font License) e Lora (SIL Open Font License 1.1): uso e redistribuição livres.
